@@ -19,6 +19,18 @@ This report analyses spatial and temporal varaition in NO2 concentration across 
 
 - `plots/` contains all of the figures produced in the report.
 
+## Requirements
+
+Install the following packages in R studio
+- sf
+- ggplot2
+- dplyr
+- lubridate
+- osmdata
+- ggspatial
+- ggnewscale
+- scales
+
 ## How do you run the code?
 
 1) Download the project
